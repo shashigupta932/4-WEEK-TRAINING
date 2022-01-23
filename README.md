@@ -3,9 +3,9 @@ Hello Everyone....
   My name is Shashi Gupta .I live in Ludhiana, Punjab.
 
 ### Talking about my Education...
-Currently i am pursuing my B.Tech (Information Technology) at GURU NANAK DEV ENGINEERING COLLEGE,LUDHIANA 4th year student secured  8.0 cgpa till 6th semester.
-i had done my 12th from GOVT.GIRLS SEN SEC SCHOOL,GILL LUDHIANA With 79% marks.
-I had completed my 10th from GURU TEG BAHADUR CO-EDU SEN SEC SCHOOL LUDHIANA With 91% Marks.
+- Currently i am pursuing my B.Tech (Information Technology) at GURU NANAK DEV ENGINEERING COLLEGE,LUDHIANA 4th year student secured  8.0 cgpa till 6th semester.
+- I had done my 12th from GOVT.GIRLS SEN SEC SCHOOL,GILL LUDHIANA With 79% marks.
+- I had completed my 10th from GURU TEG BAHADUR CO-EDU SEN SEC SCHOOL LUDHIANA With 91% Marks.
 
 ### Talking about my Skills...
 I have a Basic Knowledge about programming languages c,c++,python,java,HTML,CSS,SQL,DBMS.
