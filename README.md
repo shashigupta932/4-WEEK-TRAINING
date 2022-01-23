@@ -31,4 +31,53 @@ Intro : in this project i had two members including me . In this project Blockch
 
 ![image](https://user-images.githubusercontent.com/75441553/150665066-73642eea-b6df-43dd-8e66-82a6ac6c19b3.png)
 
+### 4 week Training 
+What I had learn during 4 week training
+
+#### History Of Blockchain
+
+- The blockchain technology was described in 1991 by the research scientist Stuart Haber and W. Scott Stornetta. 
+- In 2004, computer scientist and cryptographic activist Hal Finney introduced a system called Reusable Proof Of Work(RPoW) as a prototype for digital cash.
+- Further, in 2008, Satoshi Nakamoto conceptualized the theory of distributed blockchains.
+
+#### Blockchain
+
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+
+#### Cryptocurrency
+
+A cryptocurrency is defined as a form of digital tokens or “coins” that exist on a distributed and decentralized ledger called a blockchain.
+
+- Types of cryptocurrency
+  - Ethereum (ETH)
+  - Bitcoin 
+  - Litecoin (LTC)
+  - Cardano (ADA)
+  - Polkadot (DOT)
+  - Bitcoin Cash (BCH)
+  - Stellar (XLM)
+  - Dogecoin (DOGE)
+  - Binance Coin (BNB)
+
+#### Proof of Work 
+
+This is basically an Algorithm Which is used to confirm the transaction and create a new block to the blockchain.
+
+#### Ethereum
+
+Ethereum is second most popular cryptocurrency, after Bitcoin.to use Ethereum firstly we need to learn about Smart Contracts And Solidity.
+
+##### Smart contracts 
+
+Smart Contracts are basically a programme stored on a blockchain that run when predetermined conditions are met.
+
+#### Solidity
+-	Solidity is known as a contract-based, high-level programming language
+- This platform has a similar syntax to the scripting language of JavaScript
+- This platform also supports inheritance in object-oriented programming, inheritance enables new objects to take on the properties of existing objects.
+
+#### DECENTRALIZED APPLICATION
+
+![image](https://user-images.githubusercontent.com/75441553/150666527-5e411eee-e4d6-4e0b-9a31-05abb058f2c1.png)
+
 
