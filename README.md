@@ -16,16 +16,16 @@ Talking About My Hobby...
 
 ### Talking about my projects...
 
-## Minor Project
+### Minor Project
 
-# Tittle : Implementation of Semaphores for solve the problem of Critical Section (os based project)
+ Tittle : Implementation of Semaphores for solve the problem of Critical Section (os based project)
 
-# intro : In this project i had a team of three members including me .firstly study the basic concepts related to this project then implement 3 basic pyhton programmes in first for semaphores, second for critical section and third for solving the critical section problem using semaphores.
+ intro : In this project i had a team of three members including me .firstly study the basic concepts related to this project then implement 3 basic pyhton programmes in first for semaphores, second for critical section and third for solving the critical section problem using semaphores.
 
-## Major Project....
+### Major Project....
 
-# Tittle : Blockchain Powered E-Commerece Web Page
+Tittle : Blockchain Powered E-Commerece Web Page
 
-# Intro : in this project i had two members including me . In this project Blockchain Technology is used . Ethereum is used for database and HTML , CSS is used for web page desiging in frontend .In Ethereum Solidity and smart contracts are used .smart contracts are basically a program for solidity to run the Ethereum for database.
+Intro : in this project i had two members including me . In this project Blockchain Technology is used . Ethereum is used for database and HTML , CSS is used for web page desiging in frontend .In Ethereum Solidity and smart contracts are used .smart contracts are basically a program for solidity to run the Ethereum for database.
 
 ![image](https://user-images.githubusercontent.com/75441553/150665066-73642eea-b6df-43dd-8e66-82a6ac6c19b3.png)
